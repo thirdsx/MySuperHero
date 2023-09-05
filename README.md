@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 
-> Descrição do projeto
+> MySuperHero is the result of a challenge proposed for the development of iOS mobile applications, which has two basic navigable screens: A list screen and another detail screen. The application uses integration with the SuperHero API, which provides the main data on superheroes from the most varied universes of comics.
 
 
 
